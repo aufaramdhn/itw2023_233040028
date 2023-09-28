@@ -1,6 +1,126 @@
-INI ARTIKEL
 
-Hallo there,
-Aufa Ramadhan. 
+	<!-- Ini Link Internal -->
+	<a href="#wanita">Kenali Wanita dari Cara Berjalannya Percaya gak percaya..</a> <br>
+	<a href="#anak1">Pembodohan Melalui Lagu Anak-anak (part 1)</a><br>
+	<a href="#anak2">Pembodohan Melalui Lagu Anak-anak (part 2)</a><br><br>
+	
+	<a name="wanita">
+	<h3>Kenali Wanita dari Cara Berjalannya Percaya gak percaya..</h3>
+	<pre>
+	Tips dari Kanjeng Pengeran Harya Tjakraningkrat dari buku bertajuk "Bethaljemur Addamakna". 
+	Menurutnya setiap gerakan wanita ketika berjalan, melambangkan keperibadiannya. Bila berjalan, 
+	dari belakang kelihatan seperti tidak memijak tanah. Golongan wanita yang jalannya berginjat, 
+	konon wanita ini adalah wanita yang tidak jujur, bila berbohong, mulutnya laser dan menyinggung 
+	perasaan orang lain. Wanita yang berjalan seperti ini juga terkenal dengan sikap egonya. Lebih parah, 
+	wanita ini biasanya pemboros atau suka membazir uang tanpa berpikir sebelum berbelanja. Padahal, 
+	uangnya itu masih banyak kegunaannya. Tapi jangan berkecil hati, kerana wanita seperti ini biasanya 
+	menjadi pujaan lelaki. 
 
-I'm Studying At Universitas Pasundan.
+	Bila berjalan, sering menoleh ke kanan and kiri. Wanita seperti ini biasanya pandai menyimpan rahasia. 
+	Walaupun ramai yang menganggap wanita seperti ini tidak jujur, suka menipu teman sendiri, dan merugikan 
+	temannya, namun, byk lelaki yang berusaha untuk menaklukan hatinya. Konon wanita seperti ini senang diatur.
+	
+	Bila berjalan seperti Jerapah. Maksudnya, ketika melangkahkan kaki, kelihatan bergerak ke depan dan 
+	ke belakang. Wanita jenis ini sangat lemah perasaannya. Dia seorang yang mudah terasa dan mudah tersinggung. 
+	Jadi, saat anda bicara dengannya cobalah menjaga perasaannya agar tidak tersinggung, wanita ini mudah 
+	mengeluarkan air mata. 
+
+	Bila berjalan sambil cengar-cengir, senyam-senyum tanpa alasan jelas ini wanita gila, agak kurang waras 
+	jgn didekati Bila berjalan sambil nyanyi trus bawa kecrekan Berarti dia WARIA, bukan wanita asli..banyak 
+	pria yang takut padanya Bila berjalan sambil sesekali memamerkan barisan gigi2nya yang putih HATI HATI 
+	dia belom di suntik rabies ! Bila berjalan, dari belakang kelihatan seperti tidak memijak tanah Mungkin 
+	dia syetan....lariiiiii......hahahhaha...... kalo ada wanita bisa jalan di air, wuah... itu pasti 
+	zhang zi yi! :p Kalo ada wanita berambut panjang menutup muka dan keluar merangkak dari TV anda, maka itu 
+	Sadako. Avoid at all cost!
+	
+	</pre>
+	</a> 
+	
+	<a name="anak1">
+	<h3>Pembodohan Melalui Lagu Anak-anak (part 1)</h3>
+	<pre>
+	Lagu anak-anak yang populer ternyata mengandung banyak kesalahan yang berdampak buruk pada anak-anak, 
+	mari kita buktikan : 
+
+	1. "Balonku ada 5... 
+		rupa-rupa warnanya... 
+		merah, kuning, kelabu.. 
+		merah muda dan biru... 
+		meletus balon hijau, dorrrr!!!" 
+
+		Perhatikan warna-warna kelima balon tsb.
+		kenapa tiba2 muncul warna hijau ? Jadi jumlah balon sebenarnya ada 6, bukan 5 ! 
+
+	2. "Aku seorang kapiten... 
+		mempunyai pedang panjang... 
+		Kalo berjalan prok..prok..prok... 
+		aku seorang kapiten!" 
+
+		Perhatikan di bait pertama dia cerita tentang
+		pedangnya, tapi di bait kedua dia cerita tentang sepatunya (inkonsistensi). 
+		Harusnya dia tetap konsisten, misal jika ingin cerita tentang sepatunya seharusnya dia bernyanyi : 
+
+		"mempunyai sepatu baja (bukan pedang 
+		panjang)... kalo berjalan prok..prok..prok.." nah, itu baru klop! 
+
+		jika ingin cerita tentang pedangnya, harusnya dia bernyanyi : "mempunyai pedang panjang... 
+		kalo berjalan ndul..gondal..gandul.. atau srek.. srek.. srek.."
+		Itu baru sesuai dg kondisi pedang panjangnya! 
+
+	3. "Bangun tidur ku terus mandi.. 
+		tidak lupa menggosok gigi.. 
+		habis mandi ku tolong ibu.. 
+		membersihkan tempat tidurku.." 
+
+		Perhatikan setelah habis mandi langsung membersihkan tempat tidur. Lagu ini membuat
+		anak-anak tidak bisa terprogram secara baik dalam menyelesaikan tugasnya dan selalu terburu-buru. 
+		Sehabis mandi seharusnya si anak pakai baju dulu dan tidak langsung membersihkan tempat tidur 
+		dalam kondisi basah dan telanjang!
+	</pre>
+	</a>
+	
+	<a name="anak2">
+	<h3>Pembodohan Melalui Lagu Anak-anak (part 2)</h3>
+	<pre>
+	4. "Naik-naik ke puncak gunung..
+		tinggi.. tinggi sekali.. 
+		kiri kanan kulihat saja.. 
+		banyak pohon cemara.. 2X" 
+
+		Lagu ini dapat membuat anak kecil kehilangan 
+		konsentrasi, semangat dan motivasi! Pada awal 
+		lagu terkesan semangat akan mendaki gunung yang
+		tinggi tetapi kemudian ternyata setelah melihat jalanan yg 
+		tajam mendaki lalu jadi bingung dan gak tau mau ngapain, bisanya 
+		cuma noleh ke kiri ke kanan aja, gak maju2! 
+
+	5. "Naik kereta api tut..tut..tut.. siapa hendak turut ke Bandung.. Sby.. 
+		bolehlah naik dengan naik percuma.. 
+		ayo kawanku lekas naik.. 
+		keretaku tak berhenti lama" 
+
+		Nah, yg begini ini yg parah! mengajarkan anak-anak kalo sudah 
+		dewasa maunya gratis melulu. Pantesan PJKA rugi terus! terutama jalur 
+		Jakarta-Bandung dan Jakarta-Surabaya! 
+
+	6. "Di pucuk pohon cempaka.. 
+		burung kutilang berbunyi..
+		bersiul2 sepanjang hari dg tak jemu2.. 
+		mengangguk2 sambil bernyanyi tri li li..li..li..li..li.." 
+
+		Ini juga menyesatkan dan tidak mengajarkan kepada anak2 akan 
+		realita yg sebenarnya. Burung kutilang itu kalo nyanyi bunyinya cuit..cuit..cuit..! 
+		Kalo tri li li li li itu bunyi kalo yang nyanyi orang, bukan burung! 
+
+	7. "Pok ame ame.. belalang kupu2.. 
+		siang makan nasi, 
+		kalo malam minum susu.." 
+
+		Ini jelas lagu dewasa dan untuk konsumsi anak2!
+		karena yg disebutkan di atas itu adalah kegiatan orang dewasa, 
+		bukan anak kecil. Kalo anak kecil, karena belom boleh maem nasi, 
+		jadi gak pagi gak malem minumnya susu.
+	
+	
+	</pre>
+	</a>
