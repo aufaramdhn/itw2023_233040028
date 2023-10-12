@@ -1,7 +1,6 @@
 body {
-    /* background-color: aqua; */
     background-image: url('assets/background.png');
-    background-size: cover;
+    background-repeat: repeat-x;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -17,7 +16,7 @@ h3 {
 }
 
 h3 a {
-    color: white;
+    color: red;
 }
 
 h3 a:hover {
