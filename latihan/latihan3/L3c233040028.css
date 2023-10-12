@@ -1,0 +1,37 @@
+body {
+    background-color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 60px;
+    color: darkblue;
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+
+h3 a {
+    color: white;
+}
+
+h3 a:hover {
+    color: brown;
+}
+
+h4 {
+   text-align: right;
+   font-style: italic;
+}
+
+p {
+    text-align: justify;
+}
+
+.paragraf-1 {
+    color: darkorange;
+}
+
+.paragraf-2 a:hover{
+    background-color: blue;
+    color: white;
+}
