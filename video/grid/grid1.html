@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        font-size: 20px;
+        font-family: arial;
+        color: white;
+        text-transform: uppercase;
+        text-align: center;
+      }
+
+      .container {
+        width: 600px;
+        margin: 50px auto;
+        border: 5px solid #333;
+        box-sizing: border-box;
+        padding: 5px;
+        display: grid;
+        grid-template-areas:
+          "header header"
+          "aside main"
+          "nav main"
+          "footer footer";
+        grid-template-columns: 1fr 1.5fr;
+        grid-template-rows: 1fr 1fr 1.3fr;
+      }
+
+      header {
+        grid-area: header;
+        background-color: purple;
+        padding: 40px 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      footer {
+        grid-area: footer;
+        background-color: #2d2d2d;
+        padding: 20px 0;
+      }
+
+      aside {
+        grid-area: aside;
+        background-color: #2f93ff;
+        padding: 60px 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      nav {
+        grid-area: nav;
+        background-color: #e45765;
+        padding: 100px 0;
+      }
+
+      main {
+        grid-area: main;
+        background-color: #e0aa77;
+        padding: 171px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header>header</header>
+      <aside>aside</aside>
+      <nav>nav</nav>
+      <main>main</main>
+      <footer>footer</footer>
+    </div>
+  </body>
+</html>
