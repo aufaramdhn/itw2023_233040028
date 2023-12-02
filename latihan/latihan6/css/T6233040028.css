@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Poppins&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+  background-color: #4158d0;
+  background-image: linear-gradient(
+    43deg,
+    #4158d0 0%,
+    #c850c0 46%,
+    #ffcc70 100%
+  );
+  overflow-x: hidden;
+}
+
+nav {
+  margin: 10px 10px 0 10px;
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(120px);
+  justify-content: space-around;
+  height: 80px;
+  border-radius: 10px;
+  box-shadow: 1px 3px 10px rgba(255, 255, 255, 0.3);
+  transition: all 0.4s;
+}
+
+nav .navbar-logo {
+  font-family: "Permanent Marker", sans-serif;
+  font-size: 2em;
+  letter-spacing: 4px;
+  color: rgb(254, 201, 114);
+  text-shadow: 2px 3px 6px rgba(0, 0, 0, 1);
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  width: 40%;
+  justify-content: space-between;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+nav ul li a:hover {
+  color: rgb(165, 82, 196);
+}
+
+.menu-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 20px;
+  position: relative;
+}
+
+.menu-toggle input {
+  position: absolute;
+  width: 40px;
+  height: 28px;
+  left: -6px;
+  top: -4px;
+  opacity: 0;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.menu-toggle span {
+  display: block;
+  width: 28px;
+  height: 3px;
+  background-color: rgba(0, 0, 0, 0.95);
+  border-radius: 3px;
+  transition: all 0.5s;
+}
+
+.menu-toggle span:nth-child(2) {
+  transform-origin: 0 100%;
+}
+
+.menu-toggle input:checked ~ span:nth-child(2) {
+  transform: rotate(45deg) translate(-1px, -1px);
+}
+
+.menu-toggle input:checked ~ span:nth-child(3) {
+  transform: scale(0);
+}
+
+.menu-toggle input:checked ~ span:nth-child(4) {
+  transform: rotate(-45deg) translate(3px, -8px);
+}
+
+@media only screen and (max-width: 768px) {
+  nav ul {
+    width: 50%;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  nav.slide {
+    margin: 0;
+    transition: all 0.4s;
+  }
+
+  nav ul {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    transform: translateY(-100%);
+    transition: all 1s;
+    background-color: rgb(255, 255, 255);
+    opacity: 0;
+    z-index: -1;
+  }
+
+  nav ul li a {
+    color: rgba(165, 82, 196, 0.7);
+  }
+
+  nav ul li a:hover {
+    color: rgb(165, 82, 196);
+  }
+
+  nav ul.slide {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  nav .navbar-logo {
+    font-size: 1.5em;
+  }
+
+  .menu-toggle {
+    display: flex;
+  }
+}
