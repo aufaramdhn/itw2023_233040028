@@ -1,6 +1,6 @@
-const menuToggle = document.querySelector(".menu-toggle input")
-const nav = document.querySelector("nav")
+const menuToggle = document.querySelector(".menu-toggle input");
+const navBar = document.querySelector("nav ul");
 
-menuToggle.addEventListener("click", function() {
-    navBar.classList.toggle('slide');
-})
+menuToggle.addEventListener("click", function () {
+  navBar.classList.toggle("slide");
+});
