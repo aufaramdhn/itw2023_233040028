@@ -305,6 +305,7 @@ body {
     transform: scale(0);
     margin-left: -50px;
   }
+
   100% {
     opacity: 1;
     transform: scale(1);
