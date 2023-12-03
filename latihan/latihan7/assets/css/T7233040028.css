@@ -26,7 +26,8 @@ body {
   display: grid;
   grid-template-areas:
     "hero hero feature-1"
-    "hero hero feature-2";
+    "hero hero feature-2"
+    "feature-3 feature-4 feature-5";
 }
 
 .hero {
@@ -43,7 +44,6 @@ body {
 }
 
 .features {
-  background-color: #000;
   color: white;
   display: grid;
   place-content: center;
@@ -61,6 +61,28 @@ body {
 .feature-2 {
   grid-area: feature-2;
   background-image: url(../img/feature-2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.feature-3 {
+  grid-area: feature-3;
+  background-image: url(../img/feature-3.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+}
+
+.feature-4 {
+  grid-area: feature-4;
+  background-image: url(../img/feature-4.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.feature-5 {
+  grid-area: feature-5;
+  background-image: url(../img/feature-5.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -278,7 +300,9 @@ body {
   .header {
     grid-template-areas:
       "hero hero"
-      "feature-1 feature-2";
+      "feature-1 feature-2"
+      "feature-3 feature-4"
+      "feature-5 feature-5";
   }
 
   .feature-1 {
@@ -287,6 +311,18 @@ body {
 
   .feature-2 {
     height: 130px;
+  }
+
+  .feature-3 {
+    height: 130px;
+  }
+
+  .feature-4 {
+    height: 130px;
+  }
+
+  .feature-5 {
+    height: 200px;
   }
 
   .menu {
@@ -330,7 +366,14 @@ body {
     grid-template-areas:
       "hero"
       "feature-1"
-      "feature-2";
+      "feature-2"
+      "feature-3"
+      "feature-4"
+      "feature-5";
+  }
+
+  .feature-3 {
+    height: 130px;
   }
   .products {
     grid-template-columns: repeat(auto-fit, minmax(225px, 1fr));
