@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ngobar Grid</title>
+    <link rel="stylesheet" href="assets/css/L7233040028.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header class="header">
+        <div class="hero">
+          <h2 class="heading">TECH SHOP</h2>
+          <p class="sub-heading">Keyboard & Mouse</p>
+        </div>
+        <div class="features feature-1">
+          <h4 class="price">IDR 250K</h4>
+          <p class="item">Keyboard</p>
+        </div>
+        <div class="features feature-2">
+          <h4 class="price">IDR 450K</h4>
+          <p class="item">Mouse</p>
+        </div>
+      </header>
+      <nav class="menu">
+        <div class="menu-toggle">
+          <input type="checkbox" />
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <div class="brand">
+          <h1>TECH SHOP</h1>
+        </div>
+        <ul class="menu-list">
+          <li><a href="">Home</a></li>
+          <li><a href="">Product</a></li>
+          <li><a href="">About</a></li>
+          <li><a href="">Gallery</a></li>
+        </ul>
+      </nav>
+
+      <section class="services">
+        <div class="service">
+          <div class="icon">🧑‍💻</div>
+          <h3>Tutorial</h3>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
+            possimus, vitae veritatis enim quasi ducimus.
+          </p>
+        </div>
+        <div class="service">
+          <div class="icon">O</div>
+          <h3>Tutorial</h3>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
+            possimus, vitae veritatis enim quasi ducimus.
+          </p>
+        </div>
+        <div class="service">
+          <div class="icon">O</div>
+          <h3>Tutorial</h3>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
+            possimus, vitae veritatis enim quasi ducimus.
+          </p>
+        </div>
+        <div class="service">
+          <div class="icon">O</div>
+          <h3>Tutorial</h3>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
+            possimus, vitae veritatis enim quasi ducimus.
+          </p>
+        </div>
+      </section>
+
+      <section class="gallery">
+        <h2>Gallery</h2>
+        <img src="assets/img/keyboard-1.jpg" />
+        <img src="assets/img/mouse-1.jpg" />
+        <img src="assets/img/keyboard-2.jpg" />
+        <img src="assets/img/mouse-2.jpg" />
+        <img src="assets/img/keyboard-3.jpg" />
+        <img src="assets/img/mouse-3.jpg" />
+        <img src="assets/img/keyboard-4.jpg" />
+        <img src="assets/img/mouse-4.jpg" />
+        <img src="assets/img/keyboard-5.jpg" />
+        <img src="assets/img/mouse-5.jpg" />
+      </section>
+    </div>
+    <script>
+      const menuToggle = document.querySelector(".menu-toggle input");
+      const navBar = document.querySelector("nav ul");
+
+      menuToggle.addEventListener("click", function () {
+        navBar.classList.toggle("slide");
+      });
+    </script>
+  </body>
+</html>
